@@ -1,0 +1,21 @@
+.card {
+    padding: 20px;
+    width: 300px; /* Pas de gewenste breedte aan */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    background-color: #f0f0f0; /* Pas de gewenste achtergrondkleur aan */
+  }
+  
+  .title {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .image {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  .paragraph {
+    font-size: 16px;
+  }
